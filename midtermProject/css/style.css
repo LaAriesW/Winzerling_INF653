@@ -1,0 +1,125 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+}
+
+h1, h2 {
+    margin-bottom: 15px;
+    color: #222;
+}
+
+/* Navigation links */
+a {
+    display: inline-block;
+    margin: 5px 8px 15px 0;
+    color: #0066cc;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+/* List sections */
+.vehicles-container,
+.class-container,
+.makes-container,
+.types-container {
+    background: white;
+    border-radius: 6px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+
+/* Each row in the list */
+.list_row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.list_row:last-child {
+    border-bottom: none;
+}
+
+/* The data inside each row */
+.list_item {
+    display: flex;
+    gap: 20px;
+}
+
+.list_item p {
+    margin: 0;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+/* Add form section */
+section {
+    background: white;
+    border-radius: 6px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+
+.add_inputs {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.add_inputs label {
+    font-weight: bold;
+}
+
+.add_inputs input,
+.add_inputs select {
+    padding: 6px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+/* Buttons */
+.add-button {
+    background-color: #0066cc;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.add-button:hover {
+    background-color: #0052a3;
+}
+
+.remove-button {
+    background-color: #cc0000;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.remove-button:hover {
+    background-color: #990000;
+}
