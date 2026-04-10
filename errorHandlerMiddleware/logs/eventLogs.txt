@@ -1,0 +1,210 @@
+4c3c53a6-470c-406f-940b-76a9cdd1f478 	 [2025-03-27 12:03:50] 	 GET request to /
+5018125e-3b7a-43d5-a825-242ef89ac53b 	 [2025-03-27 12:03:50] 	 GET request to /assets/styles.css
+a472397a-0bb3-444a-87b5-e8cc34d645cf 	 [2025-03-27 12:03:50] 	 GET request to /assets/logo.png
+baf25847-7724-417a-9d7e-e2a3df0b17ec 	 [2025-03-27 12:03:50] 	 GET request to /assets/script.js
+97c51cfb-2275-4ff2-8b98-a5b848ebc3ae 	 [2025-03-27 12:03:51] 	 GET request to /about.html
+50665042-dece-4a24-9e99-86066030d11f 	 [2025-03-27 12:03:51] 	 GET request to /assets/styles.css
+da89e076-74da-4a42-b6f6-ddc17330e235 	 [2025-03-27 12:03:52] 	 GET request to /
+6e769c7a-6602-4f1d-af63-b30d875b7875 	 [2025-03-27 12:03:52] 	 GET request to /assets/styles.css
+183e1721-f7ff-4e16-b0cd-0520094f2db8 	 [2025-03-27 12:03:52] 	 GET request to /assets/logo.png
+b5c9937f-3cd5-417b-a3b9-58ad5155bc77 	 [2025-03-27 12:03:52] 	 GET request to /assets/script.js
+c82aa822-7428-44fe-8138-fc0507ec78c1 	 [2025-03-27 12:04:38] 	 GET request to /data/sample.json
+b1863daa-1ae4-40b6-a5b1-978a63c17ca0 	 [2026-04-08 13:47:47] 	 GET request to /
+b4ab8163-643e-45de-925e-1a4ca99405f3 	 [2026-04-08 13:47:47] 	 GET request to /assets/styles.css
+60538750-ddd0-45db-930c-a0800e9ca06c 	 [2026-04-08 13:47:47] 	 GET request to /assets/script.js
+4fa34292-bd5b-42d8-ba5f-93991057f31b 	 [2026-04-08 13:47:47] 	 GET request to /assets/logo.png
+db310df9-68bb-47ad-8e6f-ede91edab735 	 [2026-04-08 13:48:04] 	 GET request to /about.html
+4559ca9d-c707-4753-89b4-c2ad26ef611f 	 [2026-04-08 13:48:04] 	 GET request to /assets/styles.css
+41c4ae55-efe9-4977-a65f-bc1c0629890a 	 [2026-04-08 13:48:08] 	 GET request to /
+801c9bda-92de-4bf5-aabc-24f8dcef6e0a 	 [2026-04-08 13:48:08] 	 GET request to /assets/styles.css
+4a3ad7ac-4514-4993-bf91-5ed427b1b42b 	 [2026-04-08 13:48:08] 	 GET request to /assets/logo.png
+e05ad96a-8d58-48d6-a746-f1d8f91b6dc5 	 [2026-04-08 13:48:08] 	 GET request to /assets/script.js
+64b2f3c2-c843-4c41-b511-a446f7a4691e 	 [2026-04-08 13:48:33] 	 GET request to /
+bc6216a3-7712-4026-89b6-00ff26d7a330 	 [2026-04-08 13:48:33] 	 GET request to /assets/styles.css
+cca94c82-0baa-4274-be4f-22c78d8c5ad3 	 [2026-04-08 13:48:33] 	 GET request to /assets/logo.png
+05bbcfc6-d2c7-4620-a604-eac4dc1945e0 	 [2026-04-08 13:48:33] 	 GET request to /assets/script.js
+34bf3844-19d2-4579-93a3-1ee6b3072b86 	 [2026-04-08 13:48:34] 	 GET request to /
+142bfd25-c632-48b8-9176-bfba35456d88 	 [2026-04-08 13:48:34] 	 GET request to /assets/styles.css
+c25e4125-6441-494d-9b76-1648941ecab2 	 [2026-04-08 13:48:34] 	 GET request to /assets/logo.png
+e4a13952-3504-4175-8326-f4b6fa74f943 	 [2026-04-08 13:48:34] 	 GET request to /assets/script.js
+755e218c-ae6a-4aa4-a544-10753c94d9ec 	 [2026-04-08 13:48:35] 	 GET request to /about.html
+3a50997f-c5c7-4b21-a1a3-9fd3964a8161 	 [2026-04-08 13:48:35] 	 GET request to /assets/styles.css
+7204bcd9-be4e-456f-b959-951c2858f1a5 	 [2026-04-08 13:48:52] 	 GET request to /about.html
+24708f44-c173-4c5a-aef3-ad5d6ff27619 	 [2026-04-08 13:48:52] 	 GET request to /assets/styles.css
+c1b29d7d-0fe0-49d0-8427-61c43732f285 	 [2026-04-08 13:48:54] 	 GET request to /
+84d81baa-5f65-4347-9dfe-7c8525432865 	 [2026-04-08 13:48:54] 	 GET request to /assets/styles.css
+3366e4fa-0b99-41ce-b5ff-3ddd7cb46e20 	 [2026-04-08 13:48:54] 	 GET request to /assets/logo.png
+4961e5b7-29dc-427b-bb8f-4bcfd4466227 	 [2026-04-08 13:48:54] 	 GET request to /assets/script.js
+5b35e4a4-3298-48d3-a31b-90bdb51d4335 	 [2026-04-08 13:48:56] 	 GET request to /about.html
+f2046c9d-0894-49ab-81a7-7fc804942078 	 [2026-04-08 13:48:56] 	 GET request to /assets/styles.css
+ca34809c-8707-4d9c-873c-db066273ee17 	 [2026-04-08 13:49:53] 	 GET request to /
+088e2fe8-f0da-4eff-9df6-e9e3942d3ee1 	 [2026-04-08 13:49:53] 	 GET request to /assets/styles.css
+7b68b881-1c66-45ed-ac77-2e752e60a477 	 [2026-04-08 13:49:53] 	 GET request to /assets/logo.png
+f4d3a908-ef9b-4c02-9d9f-cc9a076b005c 	 [2026-04-08 13:49:53] 	 GET request to /assets/script.js
+a748ea23-1c9c-4820-a3cd-91fd75061e75 	 [2026-04-08 13:49:54] 	 GET request to /
+164b1da8-875d-47e2-8d80-a8318a302f93 	 [2026-04-08 13:49:54] 	 GET request to /assets/styles.css
+0c200337-449a-4cca-a9f9-984985b69bf5 	 [2026-04-08 13:49:54] 	 GET request to /assets/logo.png
+7dfdb3d9-0692-4959-ae19-b6c0f3621b8f 	 [2026-04-08 13:49:54] 	 GET request to /assets/script.js
+ef3ec028-8994-4582-9f14-c1e4239a3590 	 [2026-04-08 13:49:54] 	 GET request to /
+29f130bd-3b70-466b-a058-a9a1acee1394 	 [2026-04-08 13:49:54] 	 GET request to /assets/styles.css
+69bde884-a416-403a-ad7e-53eb173c0af0 	 [2026-04-08 13:49:54] 	 GET request to /assets/logo.png
+b6807d3f-70df-4e11-ad95-e1dc473bf3e0 	 [2026-04-08 13:49:54] 	 GET request to /assets/script.js
+bef77ed5-ab4f-4424-9c67-9aff8ee13faf 	 [2026-04-08 13:49:55] 	 GET request to /
+c9917e01-e47b-496d-b687-610d23ddf899 	 [2026-04-08 13:49:55] 	 GET request to /assets/styles.css
+18fad8ae-6eab-4052-a954-e03096fbc191 	 [2026-04-08 13:49:55] 	 GET request to /assets/logo.png
+be1ccb4d-23c7-460e-9058-6edfb14847dc 	 [2026-04-08 13:49:55] 	 GET request to /assets/script.js
+a73bd37d-0ed9-4070-9a54-6a719fef75aa 	 [2026-04-08 13:49:55] 	 GET request to /
+63925430-be2e-4469-b9d4-5ce981ef1a36 	 [2026-04-08 13:49:55] 	 GET request to /assets/styles.css
+f5b1c8fb-e820-4399-8795-754d151831d1 	 [2026-04-08 13:49:55] 	 GET request to /assets/logo.png
+e0400a2b-04e5-4997-be29-2a88a41217e3 	 [2026-04-08 13:49:55] 	 GET request to /assets/script.js
+2eddcf69-6aa9-4848-b126-fb12a87446e6 	 [2026-04-08 13:50:03] 	 GET request to /
+72d2dccd-5d8f-4f1f-a1b1-a91a6f467fde 	 [2026-04-08 13:50:03] 	 GET request to /assets/styles.css
+8121b65f-4fe5-4f44-83ce-69b3e872dc59 	 [2026-04-08 13:50:03] 	 GET request to /assets/script.js
+c10d9246-ec80-4990-9bc1-c08d1915b9a0 	 [2026-04-08 13:50:03] 	 GET request to /assets/logo.png
+1ca1f1da-2660-4acb-8f83-2bfcc53c8cbf 	 [2026-04-08 14:01:13] 	 GET request to /error-test
+6797f476-0803-4a3d-8e20-37e4558dd636 	 [2026-04-08 14:01:13] 	 GET request to /assets/styles.css
+4d6b85e1-4118-4f51-ad58-b5c9ed996dcc 	 [2026-04-08 14:01:25] 	 GET request to /errortest
+54ef3b61-8061-4b8e-81e8-bfe625c5e22a 	 [2026-04-08 14:01:26] 	 GET request to /assets/styles.css
+ededc2be-bfe7-454b-9541-4a4590a5e94c 	 [2026-04-08 14:01:27] 	 GET request to /errortest
+d8df62d8-d8cc-4ed0-a277-5f63e38db72e 	 [2026-04-08 14:01:27] 	 GET request to /assets/styles.css
+777ef5a7-2291-4cdc-88cd-04905b900d02 	 [2026-04-08 14:01:32] 	 GET request to /errortest
+476a5b5a-4476-43d5-a92c-bb05cd31cd7a 	 [2026-04-08 14:01:32] 	 GET request to /assets/styles.css
+df0715e6-cc1f-426f-9668-45a7dfa5c46e 	 [2026-04-08 14:01:33] 	 GET request to /errortest
+529d48ed-ccb3-4540-9733-765185f18124 	 [2026-04-08 14:01:33] 	 GET request to /assets/styles.css
+9b18028e-b05d-48b6-80cc-ae863ca8a293 	 [2026-04-08 14:01:34] 	 GET request to /errortest
+319a83d1-50a7-4fc0-874c-309a4a3d3400 	 [2026-04-08 14:01:34] 	 GET request to /assets/styles.css
+1d0078f6-3036-4b0a-a9ef-591b7dc8f193 	 [2026-04-08 14:01:34] 	 GET request to /errortest
+b1b882a5-44e8-4556-9207-fbb302a3a4a3 	 [2026-04-08 14:01:34] 	 GET request to /assets/styles.css
+263f33a3-b446-4dbc-af02-26931ecfa33f 	 [2026-04-08 14:01:34] 	 GET request to /errortest
+da05bf24-9f33-457c-b818-3d566df5c073 	 [2026-04-08 14:01:34] 	 GET request to /assets/styles.css
+23fa5e35-2ddd-4db8-8448-def72ea0ad07 	 [2026-04-08 14:01:34] 	 GET request to /errortest
+fb335b9e-6694-4519-9559-a8b1b510dd05 	 [2026-04-08 14:01:34] 	 GET request to /assets/styles.css
+7dc0cb93-32b5-47f4-9e7d-39f06f0f3cb6 	 [2026-04-08 14:02:18] 	 GET request to /errortest
+5ec4cd23-3624-4909-9e54-87a552926911 	 [2026-04-08 14:02:18] 	 GET request to /assets/styles.css
+9b14530c-d5d0-47d3-8771-b5a69a71fe35 	 [2026-04-08 14:02:59] 	 GET request to /
+9a84855f-2cba-4311-800f-b2e5ff1fd151 	 [2026-04-08 14:02:59] 	 GET request to /assets/styles.css
+3553f135-1ca1-45ab-b7b0-5f08482ba59a 	 [2026-04-08 14:02:59] 	 GET request to /assets/logo.png
+509a65ab-f14f-4f9e-b6a9-0ebf15399ebc 	 [2026-04-08 14:02:59] 	 GET request to /assets/script.js
+3ef96db9-c6b5-4dbb-b12d-c02a1c4ecb25 	 [2026-04-08 14:03:04] 	 GET request to /errortest
+0dd7c03e-31c5-44e4-b121-216141c02c66 	 [2026-04-08 14:03:05] 	 GET request to /assets/styles.css
+40b9596b-0e2d-4a09-bc45-7f81e8fe5698 	 [2026-04-08 14:03:48] 	 GET request to /errortest
+b608f583-0b45-4faa-b73a-d3d5b1dd3b92 	 [2026-04-08 14:03:48] 	 GET request to /assets/styles.css
+efae2232-c21f-4a78-aba9-36f63ea02bc7 	 [2026-04-08 14:03:49] 	 GET request to /errortest
+85b64464-178e-47b1-ac3e-c05a5935765c 	 [2026-04-08 14:03:49] 	 GET request to /assets/styles.css
+cc9e3389-ed05-424b-b3aa-36fccdf9e4e1 	 [2026-04-08 14:03:49] 	 GET request to /errortest
+fa2d5a1f-9be9-4397-bbe7-64488a623ca8 	 [2026-04-08 14:03:49] 	 GET request to /assets/styles.css
+0df8bcf2-ef25-4974-877c-e59bdf71370f 	 [2026-04-08 14:03:49] 	 GET request to /errortest
+b0547200-ed7d-486d-a80d-4287de0a6c92 	 [2026-04-08 14:03:49] 	 GET request to /assets/styles.css
+331fe6e4-ba16-4322-8ed6-9b7582e75935 	 [2026-04-08 14:03:49] 	 GET request to /errortest
+5053f9c2-e25c-4b20-8af7-5b890fee622f 	 [2026-04-08 14:03:49] 	 GET request to /assets/styles.css
+8e3fb1d2-a616-4a58-b8a1-c5249eb8082d 	 [2026-04-08 14:03:49] 	 GET request to /errortest
+6df7a504-9378-4fca-b8f0-11fa1eac2a7c 	 [2026-04-08 14:03:49] 	 GET request to /assets/styles.css
+20af2b51-b366-4c70-8cbe-37e071fb92c8 	 [2026-04-08 14:04:46] 	 GET request to /errortest
+6176344b-1b01-4f59-95d4-f8329b5ad949 	 [2026-04-08 14:04:46] 	 GET request to /assets/styles.css
+86f1f916-21b7-4209-90d6-5fe4d0724216 	 [2026-04-08 14:04:47] 	 GET request to /errortest
+0d2418f4-c82e-4429-83ad-1497af4e9742 	 [2026-04-08 14:04:47] 	 GET request to /assets/styles.css
+8badc609-f4a6-4a0b-a585-4c8a9cb2b40b 	 [2026-04-08 14:04:47] 	 GET request to /errortest
+b960f46d-49cb-445b-b759-2a8881d2edd3 	 [2026-04-08 14:04:47] 	 GET request to /assets/styles.css
+98e21c2c-b3b9-4e1f-a0e0-9c8ec485e0d9 	 [2026-04-08 14:04:47] 	 GET request to /errortest
+4e5bc4ea-5831-4863-b058-64d2f77c6962 	 [2026-04-08 14:04:47] 	 GET request to /assets/styles.css
+a5b22c75-d392-480f-92e2-708fefb6c243 	 [2026-04-08 14:04:47] 	 GET request to /errortest
+4986996a-198b-4b41-bfef-67c7ba9975ff 	 [2026-04-08 14:04:47] 	 GET request to /assets/styles.css
+10ba0fc2-9bd3-4392-99fc-124c8cac5ab2 	 [2026-04-08 14:04:55] 	 GET request to /
+6d19a173-888d-49e4-ada7-e20f94996deb 	 [2026-04-08 14:04:55] 	 GET request to /assets/styles.css
+5cf043c5-46b0-47f5-8413-d542e0780067 	 [2026-04-08 14:04:55] 	 GET request to /assets/logo.png
+55e5c748-1609-436a-8ffe-bc7a2977f5d9 	 [2026-04-08 14:04:55] 	 GET request to /assets/script.js
+def211b4-df84-462e-ac4b-bbf48bb3efc9 	 [2026-04-08 14:04:57] 	 GET request to /
+ca17c0ae-70bf-40dd-bd35-e165d9a0d87b 	 [2026-04-08 14:04:57] 	 GET request to /assets/styles.css
+9eb266b6-971c-49dc-b057-7a4225cb0b71 	 [2026-04-08 14:04:57] 	 GET request to /assets/logo.png
+a95fdca9-4b5c-4eb1-a303-40a26c211bfe 	 [2026-04-08 14:04:57] 	 GET request to /assets/script.js
+3e971b54-6f83-4cb7-8333-59386abd3277 	 [2026-04-08 14:05:02] 	 GET request to /errortest
+aa4abf2b-149b-4565-ba25-e17aef64ce55 	 [2026-04-08 14:05:02] 	 GET request to /assets/styles.css
+03908c9f-dbb8-4385-87bc-188d9a36cb4d 	 [2026-04-08 14:05:11] 	 GET request to /
+bf084cb0-f764-459a-a6af-2f2c95af4a66 	 [2026-04-08 14:05:11] 	 GET request to /assets/styles.css
+f210cb44-3829-4d2d-9699-30c2cc47629f 	 [2026-04-08 14:05:11] 	 GET request to /assets/logo.png
+9ae5c390-b635-4600-a620-155dcb35b8e7 	 [2026-04-08 14:05:11] 	 GET request to /assets/script.js
+cfef4182-92ba-42f9-8966-a6cbb2ef266b 	 [2026-04-08 14:06:18] 	 GET request to /
+4f5f3b30-6494-4d74-8a36-97de26d8cd73 	 [2026-04-08 14:06:18] 	 GET request to /assets/styles.css
+d47f006a-1af9-42b6-9020-b5d3475bb075 	 [2026-04-08 14:06:18] 	 GET request to /assets/logo.png
+78417c4e-d717-47c2-9917-97d4fc1a7c7d 	 [2026-04-08 14:06:18] 	 GET request to /assets/script.js
+a1f4a082-e22a-44f4-a293-bc6f22510b14 	 [2026-04-08 14:06:21] 	 GET request to /
+773cef9e-6130-48f4-9123-0842871b42e1 	 [2026-04-08 14:06:21] 	 GET request to /assets/styles.css
+42a4df61-7d61-490d-9796-b17a126ce603 	 [2026-04-08 14:06:21] 	 GET request to /assets/logo.png
+97782a3d-450f-42ef-bf5a-75c392769d1d 	 [2026-04-08 14:06:21] 	 GET request to /assets/script.js
+e26724f8-373b-49c5-b6c7-96588cca381a 	 [2026-04-08 14:06:40] 	 GET request to /errortest
+a5b0c593-e8ae-4739-b361-d072a088c5ab 	 [2026-04-08 14:06:40] 	 GET request to /assets/styles.css
+3ebfe429-760b-4f1a-a4a5-b77a845546cd 	 [2026-04-08 14:07:46] 	 GET request to /errortest
+ef2760ff-47d7-4ae7-b0e6-149ff03cf326 	 [2026-04-08 14:07:46] 	 GET request to /assets/styles.css
+e5fc4268-ce4f-4b03-88da-535d73fd1274 	 [2026-04-08 14:07:47] 	 GET request to /errortest
+c4a69d4c-d8d7-47aa-a9a5-111f3f5db145 	 [2026-04-08 14:07:47] 	 GET request to /assets/styles.css
+8ec3d4cb-1ebf-43a2-a001-8253237ba78b 	 [2026-04-08 14:07:48] 	 GET request to /errortest
+9dfa7d7b-ef77-4827-84a8-47c15b2bf2f8 	 [2026-04-08 14:07:48] 	 GET request to /assets/styles.css
+8160ce8f-574f-4121-8fbb-7f27b014415a 	 [2026-04-08 14:07:48] 	 GET request to /errortest
+e90eef80-3bfb-413a-a60f-b9961784ec05 	 [2026-04-08 14:07:48] 	 GET request to /assets/styles.css
+6873d039-27a6-4dc8-bd53-e56466e49369 	 [2026-04-08 14:07:49] 	 GET request to /errortest
+b2059ab1-a01f-4f19-ab74-9a4c399754a3 	 [2026-04-08 14:07:49] 	 GET request to /assets/styles.css
+7cc80498-9dc7-4e8c-ac9a-6fe2e7c914e6 	 [2026-04-08 14:08:10] 	 GET request to /
+08aa925c-5769-419d-b64c-c61ecff13e2c 	 [2026-04-08 14:08:10] 	 GET request to /assets/styles.css
+a941e912-a268-4880-9000-6d6c4aafe0a6 	 [2026-04-08 14:08:10] 	 GET request to /assets/script.js
+4da12241-5bd7-4fab-92bf-cfa4f396bbd4 	 [2026-04-08 14:08:10] 	 GET request to /assets/logo.png
+db1954cf-a330-4aab-aaab-dfcd8038ca33 	 [2026-04-08 14:08:15] 	 GET request to /errortest
+fa1a4d94-32db-4fe8-a118-c65b9906965e 	 [2026-04-08 14:08:15] 	 GET request to /errortest
+6d99bd10-5bfd-4815-960e-5343dab667ce 	 [2026-04-08 14:08:15] 	 GET request to /assets/styles.css
+5ce2d562-79ab-4bfd-9fa3-092028d1c761 	 [2026-04-08 14:08:29] 	 GET request to /about.html
+01a448c5-1c10-4ead-be79-7d4e50b9f010 	 [2026-04-08 14:08:29] 	 GET request to /assets/styles.css
+9eeb50d5-d904-4f4c-bd36-a0f33dc7341b 	 [2026-04-08 14:08:40] 	 GET request to /
+d1d9309b-c31b-407e-9ac0-9c7067eb9c49 	 [2026-04-08 14:08:40] 	 GET request to /assets/styles.css
+e538b1b3-f4a1-46d3-9080-85a821d68b2c 	 [2026-04-08 14:08:40] 	 GET request to /assets/logo.png
+f285e7c4-f4d3-4551-958f-555dc79bcd82 	 [2026-04-08 14:08:40] 	 GET request to /assets/script.js
+a7fe5703-08ad-434a-99c8-9ec7d9f95601 	 [2026-04-08 14:08:46] 	 GET request to /errortest
+aec81d5d-d053-4fc4-a1ac-f4afbf4b9370 	 [2026-04-08 14:08:48] 	 GET request to /errortest.html
+bce94518-53aa-46a5-8780-a6546aeade4b 	 [2026-04-08 14:08:48] 	 GET request to /assets/styles.css
+7c5d0cdd-228c-4293-93de-946802ec5a80 	 [2026-04-08 14:08:58] 	 GET request to /multi
+5a4175bc-5d75-476c-839b-a6485fe92a39 	 [2026-04-08 14:08:58] 	 GET request to /assets/styles.css
+1864ecb8-d64b-49b4-bdbf-af57ae17dde2 	 [2026-04-10 12:54:46] 	 GET request to /
+e3018768-639e-48a9-a55c-eda00a5ea5c9 	 [2026-04-10 12:54:46] 	 GET request to /assets/styles.css
+122227da-fd00-44b7-b57e-7479a1f4574f 	 [2026-04-10 12:54:46] 	 GET request to /assets/logo.png
+24450d6b-f275-4fdc-848f-c761837bd302 	 [2026-04-10 12:54:46] 	 GET request to /assets/script.js
+b05fa64d-d04d-4263-b0b9-a9e7cb77b6e0 	 [2026-04-10 12:55:29] 	 GET request to /errortest
+f9f846ed-3a63-4ffe-8c3b-52c39cb87b98 	 [2026-04-10 12:55:30] 	 GET request to /errortest.html
+de1368ea-325f-41a0-b3e4-b997155dc5fa 	 [2026-04-10 12:55:31] 	 GET request to /assets/styles.css
+67eac7be-6cc9-4003-a470-2710013e512e 	 [2026-04-10 12:56:32] 	 GET request to /errortest.html
+a2c2b7d0-b73e-4bdb-b075-ff2ba4abd7b1 	 [2026-04-10 12:56:32] 	 GET request to /assets/styles.css
+f0659720-0256-412e-a868-bb50ef20265d 	 [2026-04-10 12:56:33] 	 GET request to /errortest.html
+acd474a6-6559-4d77-8304-7dd6b34c888b 	 [2026-04-10 12:56:33] 	 GET request to /assets/styles.css
+7a18acf4-998e-4da6-ad2c-9f82922065f0 	 [2026-04-10 13:00:42] 	 Error TestError - This is an intentional test error
+96c2e90d-13d4-4e3d-a3e0-c32601f722b0 	 [2026-04-10 13:01:31] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\about.html'
+f2452f2b-b5a6-416b-9bea-c752a185eb5b 	 [2026-04-10 13:01:49] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+27d812f6-1e65-4b77-a0ad-e587bcb51e91 	 [2026-04-10 13:01:49] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+1e0fb046-6fb4-4576-8579-bd499f75fd79 	 [2026-04-10 13:01:49] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+5cc9dba8-a755-4d41-8b7e-b1a62e191761 	 [2026-04-10 13:02:10] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\about.html'
+0b8f50fd-e0a0-484f-9efd-0ff7be94ac9e 	 [2026-04-10 13:02:13] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+a0932447-5bfa-4a05-bc74-0c0f6b0f2d71 	 [2026-04-10 13:02:13] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+4f52f06b-c63c-48fc-b465-3269de85de67 	 [2026-04-10 13:02:13] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+3dbc9e0d-d8db-461d-b679-07dfa4c51021 	 [2026-04-10 13:02:37] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\about.html'
+3bad3d06-02a0-43a4-a972-b6cd592b269f 	 [2026-04-10 13:02:38] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+fbebc876-be85-46d3-8fad-86eec519c061 	 [2026-04-10 13:02:40] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\about.html'
+d00717d8-9636-4a8f-aab5-fb7a03b3b077 	 [2026-04-10 13:04:50] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+aca07b2e-30b5-41ec-ab03-5d9dd828698c 	 [2026-04-10 13:04:50] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+d85fd25f-3ca7-45ac-aca1-577d040dc438 	 [2026-04-10 13:04:50] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+36286e99-3748-4123-9865-e3a6d0a8609a 	 [2026-04-10 13:04:51] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+10d689ef-094d-4a2e-81ca-6900b09828e1 	 [2026-04-10 13:04:51] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+b6de3a05-c494-4752-b672-ce15fae5a758 	 [2026-04-10 13:04:51] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+30acafb5-b4b0-4619-be83-37fc5144b8eb 	 [2026-04-10 13:04:51] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+f75b3ee2-8f52-4255-9a1a-b519d513b500 	 [2026-04-10 13:04:51] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+643cc01a-4a3e-4573-9c50-4791129598c1 	 [2026-04-10 13:04:51] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+3ba7ee57-23dd-48d4-a3f6-477016dfe757 	 [2026-04-10 13:04:51] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+33153bb4-720c-4ec0-8e88-999363178e4b 	 [2026-04-10 13:04:51] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+a015d143-5c63-4822-a065-bd182593c58d 	 [2026-04-10 13:04:51] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+30c80b9e-a930-4564-b119-65de241f78ca 	 [2026-04-10 13:05:06] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+b3d3cbb6-bb78-4b03-b48f-f30a77b213f4 	 [2026-04-10 13:05:06] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+27d3b726-d3f8-4dbe-936e-400176d77145 	 [2026-04-10 13:05:06] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+ec784eb8-48d0-4f8c-8757-ce0a4a96a65b 	 [2026-04-10 13:05:07] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+d0c51651-35e9-402f-9f03-fcf0b1dcc77e 	 [2026-04-10 13:05:07] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+a9c866e2-5684-4d3f-bf2c-1ab8d5d3ff0f 	 [2026-04-10 13:05:07] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+defeee5d-7391-49a3-8e01-20685de7fc35 	 [2026-04-10 13:05:07] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+2d20e7bb-8298-4ed7-9f12-adf87281069b 	 [2026-04-10 13:05:07] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+1379a00b-011b-4867-b334-b23504a61739 	 [2026-04-10 13:05:07] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+d01bc75d-1fee-4cc0-80ab-0d2aaa707504 	 [2026-04-10 13:05:11] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+0abdda06-dba7-48a7-8612-eb964e6b3d0d 	 [2026-04-10 13:05:11] 	 Error Error - ENOENT: no such file or directory, stat 'C:\Users\laari\Documents\VSCode\BackEndDev\MERN\ErrorHandlerAssignment\404.html'
+40b2a938-90e7-482f-8361-413ab454cc77 	 [2026-04-10 13:05:58] 	 Error TestError - This is an intentional test error
